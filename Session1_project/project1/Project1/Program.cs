@@ -108,19 +108,5 @@ namespace Project1
 
         }
 
-        //public void SearchGrades(double grade)
-        //{
-        //    Console.WriteLine("\n\n Enter the grade to search:  ");
-
-        //    string grade_search = Console.ReadLine();
-
-        //    foreach (var item in lis)
-        //    {
-
-        //    }
-
-        //}
-
-
     }
 }
