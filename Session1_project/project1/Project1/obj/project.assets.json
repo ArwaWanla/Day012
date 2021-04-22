@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arwawanla/Projects/project1/Project1/Project1.csproj",
+      "projectUniqueName": "/Users/arwawanla/Day012/Session1_project/project1/Project1/Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "/Users/arwawanla/Projects/project1/Project1/Project1.csproj",
+      "projectPath": "/Users/arwawanla/Day012/Session1_project/project1/Project1/Project1.csproj",
       "packagesPath": "/Users/arwawanla/.nuget/packages/",
-      "outputPath": "/Users/arwawanla/Projects/project1/Project1/obj/",
+      "outputPath": "/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arwawanla/.config/NuGet/NuGet.Config"

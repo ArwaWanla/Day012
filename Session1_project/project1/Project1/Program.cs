@@ -46,30 +46,16 @@ namespace Project1
 
             print(lisStudents);
 
-
-            Console.WriteLine("\n\nEnter the grade to search:  ");
+            Console.WriteLine("\n--------------\nEnter the grade to search:  ");
             string user_gradeToSearch = Console.ReadLine();
-            double gradeToSearch = double.Parse(user_gradeToSearch);
-
-
-            int count = 0;
-
-            for (int i = 0; i < lisStudents.Count; i++)
-            {
-                if (gradeToSearch == lisStudents[i].Grade)
-                {
-                    count += 1;
-                } 
-            }
-
-            Console.WriteLine("\n\nNumber of Students with Grade {0} is {1}:  ", gradeToSearch, count);
-
-
-
-
+            int gradeToSearch = int.Parse(user_gradeToSearch);
+             
+            Console.WriteLine("---------------------------\nNumber of Students with Grade {0} is {1}:  ", gradeToSearch, SearchGrade(gradeToSearch, lisStudents));
 
         }
+         
 
+        //function to calculate results
         static string calculateResult ( double grade)
         {
             string result;
@@ -102,6 +88,24 @@ namespace Project1
 
                 Console.WriteLine(ss.getData());
             }
+        }
+
+        //write a function to search grade
+        static int SearchGrade(int g,List<Student> ls)
+        {
+
+            int count = 0;
+
+            for (int i = 0; i < ls.Count; i++)
+            {
+                if (g == ls[i].Grade)
+                {
+                    count += 1;
+                }
+            }
+
+            return  count;
+
         }
 
         //public void SearchGrades(double grade)

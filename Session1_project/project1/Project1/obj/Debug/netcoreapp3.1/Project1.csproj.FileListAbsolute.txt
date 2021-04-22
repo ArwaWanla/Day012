@@ -10,3 +10,15 @@
 /Users/arwawanla/Projects/project1/Project1/obj/Debug/netcoreapp3.1/Project1.pdb
 /Users/arwawanla/Projects/project1/Project1/obj/Debug/netcoreapp3.1/Project1.genruntimeconfig.cache
 /Users/arwawanla/Projects/project1/Project1/obj/Debug/netcoreapp3.1/Project1.csprojAssemblyReference.cache
+/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/Debug/netcoreapp3.1/Project1.csprojAssemblyReference.cache
+/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfoInputs.cache
+/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfo.cs
+/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/Debug/netcoreapp3.1/Project1.dll
+/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/Debug/netcoreapp3.1/Project1.pdb
+/Users/arwawanla/Day012/Session1_project/project1/Project1/bin/Debug/netcoreapp3.1/Project1.deps.json
+/Users/arwawanla/Day012/Session1_project/project1/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.json
+/Users/arwawanla/Day012/Session1_project/project1/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.dev.json
+/Users/arwawanla/Day012/Session1_project/project1/Project1/bin/Debug/netcoreapp3.1/Project1.dll
+/Users/arwawanla/Day012/Session1_project/project1/Project1/bin/Debug/netcoreapp3.1/Project1.pdb
+/Users/arwawanla/Day012/Session1_project/project1/Project1/obj/Debug/netcoreapp3.1/Project1.genruntimeconfig.cache
